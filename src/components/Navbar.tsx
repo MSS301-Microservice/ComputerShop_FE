@@ -1,0 +1,1 @@
+// FILE NÀY ĐÃ ĐƯỢC THAY THẾ BỞI components/layout/Header.tsx. BẠN CÓ THỂ XÓA FILE NÀY.

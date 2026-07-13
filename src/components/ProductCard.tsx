@@ -1,0 +1,1 @@
+// FILE NÀY ĐÃ ĐƯỢC CHUYỂN VÀO components/ui/ProductCard.tsx. BẠN CÓ THỂ XÓA FILE NÀY.

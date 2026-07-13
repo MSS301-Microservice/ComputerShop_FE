@@ -1,0 +1,1 @@
+// FILE NÀY ĐÃ ĐƯỢC CHUYỂN VÀO types/index.ts. BẠN CÓ THỂ XÓA FILE NÀY.
